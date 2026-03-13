@@ -8,4 +8,6 @@ Anti Lumine Proxy behavior pack
   
   その他オペレータ権限をプレイヤーに与える場合tag selector add opを実行してください
 
+  手動でkickする場合 tag selector add ac:banを実行してください
+
   正直めんどくさい(´・ω・｀)

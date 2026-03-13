@@ -7,4 +7,5 @@ Anti Lumine Proxy behavior pack
   ac.jsに自分を除外リストに追加してください
   
   その他オペレータ権限をプレイヤーに与える場合tag selector add opを実行してください
-                
+
+  正直めんどくさい(´・ω・｀)

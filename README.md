@@ -10,4 +10,4 @@ Anti Lumine Proxy behavior pack
 
   手動でkickする場合 tag selector add ac:banを実行してください
 
-  正直めんどくさい(´・ω・｀)
+  今のところは対策できている模様
